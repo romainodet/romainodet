@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Foodtruck Today](https://foodtrucktoday.fr)
 
-- 👨‍💻 All of my projects are available at [https://romainodet.fr](romainodet.fr)
+- 👨‍💻 All of my projects are available at [romainodet.fr](https://romainodet.fr)
 
-- 📝 I regulary write articles on [https://romainodet.fr/blog/](romainodet.fr/blog/)
+- 📝 I regulary write articles on [romainodet.fr/blog/](https://romainodet.fr/blog/)
 
 - 📫 How to reach me **romain@romainodet.fr**
 
